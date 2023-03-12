@@ -5,7 +5,7 @@
 ![Springboot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![K8s](https://img.shields.io/badge/K8s-005C84?style=for-the-badge&logo=K8s&logoColor=white)
+![K8s](https://img.shields.io/badge/K8s-005C64?style=for-the-badge&logo=K8s&logoColor=white)
 
 - 🧑🏻‍💻 Working on improving my Problem Solving Skills in DSA
 - 🦿 Learning Backend Web Developement 
