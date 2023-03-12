@@ -6,6 +6,7 @@
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-356697?style=for-the-badge&logo=Kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-356697?style=for-the-badge&logo=AWS&logoColor=white)
 
 - 🧑🏻‍💻 Working on improving my Problem Solving Skills in DSA
 - 🦿 Learning Backend Web Developement 
