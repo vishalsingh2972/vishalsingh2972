@@ -13,5 +13,6 @@
 - 🦿 Learning Backend Web Developement 
 - 🌎 Open source contributor
 - 📝 Writer at Hashnode
+-  👨‍💻 Freelance Software Developer
 
 
