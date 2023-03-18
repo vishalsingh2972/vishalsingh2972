@@ -12,7 +12,7 @@
 - 🧑🏻‍💻 Working on improving my Problem Solving Skills in DSA
 - 🦿 Learning Backend Web Developement 
 - 🌎 Open source contributor
-- 📝 Writer at Hashnode & Dev.to
+- 📝 Writer at Hashnode, HackerNoon & Dev.to
 -  👨‍💻 Freelance Software Developer
 
 
