@@ -17,4 +17,3 @@
 - 🌎 Open source contributor
 - 📝 Writer at Hashnode, HackerNoon & Dev.to
 -  👨‍💻 Freelance Software Developer
-
