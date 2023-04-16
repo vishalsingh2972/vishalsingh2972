@@ -12,8 +12,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF2900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-- 🧑🏻‍💻 Working on improving my Problem Solving Skills in DSA
+- 🧑🏻‍💻 Working on improving my Problem Solving Skills in DSA 
 - 🦿 Currently Learning Backend Web Developement 
-- 🌎 Open source contributor
+- 🌎 Open source contributor                                                          
 - 📝 Writer at Hashnode, HackerNoon & Dev.to
 -  👨‍💻 Freelance Software Developer
