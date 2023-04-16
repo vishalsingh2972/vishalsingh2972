@@ -17,3 +17,10 @@
 - 🌎 Open source contributor                                                          
 - 📝 Writer at Hashnode, HackerNoon & Dev.to
 -  👨‍💻 Freelance Software Developer
+
+<div>
+  <a title="GitHub Readme Stats"><img src="https://fabianocouto-readme-stats.vercel.app/api?username=vishalsingh2972&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide=stars&line_height=28&v1" width=49.5% />
+  </a>
+  <a title="Github Readme Streak Stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsingh2972&background=24292f&border=373e47&stroke=373e47&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=adbac7&ring=539bf5&currStreakLabel=539bf5&fire=203658k" width=49.5% />
+  </a>
+</div>
