@@ -17,5 +17,3 @@
 - 🌎 Open source contributor                                                          
 - 📝 Writer at Hashnode, HackerNoon & Dev.to
 -  👨‍💻 Freelance Software Developer
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishalsingh2972&theme=dark&)
