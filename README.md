@@ -20,9 +20,9 @@
 
 <div>
   
-  <a title="GitHub Readme Stats"><img src="https://fabianocouto-readme-stats.vercel.app/api?username=vishalsingh2972&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide=stars&line_height=28&v1&rank_icon=github&text_color=adbac7&title_color=7cfe9e&icon_color=7cfe9e" width=49.5% />
+  <a title="GitHub Readme Stats"><img src="https://fabianocouto-readme-stats.vercel.app/api?username=vishalsingh2972&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide=stars&line_height=28&v1&rank_icon=github&text_color=adbac7&title_color=7cfe9e&icon_color=7cfe9e" width=49.7% />
   </a>
-  <a title="Github Readme Streak Stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsingh2972&background=24292f&border=373e47&stroke=373e47&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=adbac7&ring=7cfe9e&currStreakLabel=7cfe9e&fire=213658k" alt="vishalsingh2972" width=49.5% />
+  <a title="Github Readme Streak Stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsingh2972&background=24292f&border=373e47&stroke=373e47&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=adbac7&ring=7cfe9e&currStreakLabel=7cfe9e&fire=213658k" alt="vishalsingh2972" width=49.78% />
   </a>
   
 </div>
