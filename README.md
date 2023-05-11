@@ -13,10 +13,11 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF2900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 - 🧑🏻‍💻 Working on improving my Problem Solving Skills in DSA 
-- 🦿 Currently Learning Backend Web Developement 
+- 🦿 Currently Learning Full Stack Web Developement 
 - 🌎 Open source contributor                                                          
 - 📝 Writer at Hashnode, HackerNoon & Dev.to
--  👨‍💻 Freelance Software Developer
+- 👨‍💻 Freelance Software Developer
+- 🤝 Open to Collaborations
 
 <div>
   
