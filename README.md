@@ -4,7 +4,7 @@
 
 - 🧑🏻‍💻 Working on improving my Problem Solving Skills in DSA 
 - 🦿 Currently working on full-stack web development projects [ Backend - Java Spring Boot || Frontend - React JS ]
-- 🌎 Open source contributor                                                          
+- 🌎 Open Source Contributor                                                          
 - 📝 Writer at Hashnode, HackerNoon & Dev.to
 - 👨‍💻 Freelance Software Developer
 - 🤝 Open to Collaborations
