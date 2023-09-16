@@ -20,5 +20,4 @@
   <a title="Github Readme Streak Stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsingh2972&background=24292f&border=373e47&stroke=373e47&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=adbac7&ring=7cfe9e&currStreakLabel=7cfe9e&fire=213658k" alt="vishalsingh2972" width=49.79% />
   </a>
 </div>
-
 </details>
