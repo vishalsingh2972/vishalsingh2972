@@ -6,7 +6,7 @@
 - 🦿 Currently working on full-stack web development projects
 - 🌎 Open Source Contributor                                                          
 - 👨‍💻 Freelance Software Developer
-- 📝 Aspiring writer at Hashnode, HackerNoon & Dev.to
+- 📝 Aspiring Technical Writer
 - 🤝 Open to Collaborations
 
 ---
