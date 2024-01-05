@@ -6,6 +6,7 @@
 - 💻 Building full-stack Web Development Projects
 - 🌎 Open Source Contributor                                                          
 - 👨‍💻 Freelance Software Developer
+- 🤗 Sharing my Learnings
 - 📝 Aspiring Technical Writer
 - 💪 Building my Online Presence
 - 🤝 Open to Collaborations
