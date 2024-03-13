@@ -8,8 +8,8 @@
 - 🧮 Improving my problem solving skills in DSA
 - 👨‍💻 Freelance Software Developer
 - 💪 Building my Online Presence
+- 🌎 Open Source Contributor
 - 📝 Aspiring Technical Writer
-- 🌎 Open Source Contributor 
 - 🤗 Sharing my Learnings
 - 🤝 Open to Collaborations
   
