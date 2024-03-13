@@ -10,7 +10,7 @@
 - 💪 Building my Online Presence
 - 🌎 Open Source Contributor
 - 📝 Aspiring Technical Writer
-- 🤗 Sharing my Learnings
+- 🤗 Sharing all my Learnings
 - 🤝 Open to Collaborations
   
 ---
