@@ -9,7 +9,7 @@
 - 👨‍💻 Freelance Software Developer
 - 💪 Building my Online Presence
 - 🌎 Open Source Contributor
-- 📝 Aspiring Technical Writer
+- 📝 Newbie Technical Writer
 - 🤗 Sharing all my Learnings
 - 🤝 Open to Collaborations
   
