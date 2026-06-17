@@ -1,13 +1,13 @@
+<img width="2100" height="800" alt="Sitong_Liu_Historical_Context_Final" src="https://github.com/user-attachments/assets/8d38661e-00fc-4d61-b41b-bcd2675a567a" />
+
 <h1 align='center'>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F90F7&random=false&width=535&lines=%E2%9C%A8+Namaste%2C+Welcome+to+my+Mini+World!" alt="Typing SVG" />
 </h1>
 
-<img width="2100" height="800" alt="Sitong_Liu_Historical_Context_Final" src="https://github.com/user-attachments/assets/8d38661e-00fc-4d61-b41b-bcd2675a567a" />
-
 - 💻 Building full-stack Web Dev AI Projects
 - 🧮 Improving my problem solving skills in DSA
 - 👨‍💻 Freelance Software Developer
-- 💪 Building my Online Presence
+- 💪 Growing a 20K+ online community
 - 🌎 Open Source Contributor
 - 📝 Newbie Technical Writer
 - 🤗 Sharing all my Learnings
