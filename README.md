@@ -10,6 +10,6 @@
 * 🗣️ Translating complex tech into simple, developer-friendly content
 * 📝 Newbie Technical Writer
 * 💪 Growing and engaging a 20K+ developer community
-* 🤗 Learning in public and sharing my journey with fellow developers
+* 🤗 Learning in public and sharing my journey with developers globally
 * 🤝 Open to collaborations, freelance opportunities, and exciting ideas
 ---
